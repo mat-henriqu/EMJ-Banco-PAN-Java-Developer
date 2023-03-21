@@ -1,4 +1,4 @@
-package metodos.exercicio.pratico;
+package metodos.metodo;
 
 public class Mensagem {
 
